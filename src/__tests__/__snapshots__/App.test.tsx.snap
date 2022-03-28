@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render icons Render Circle 1`] = `
+<Circle
+  color="#fff"
+  height={33}
+  width={33}
+>
+  Object {}
+</Circle>
+`;
+
+exports[`Render icons Render Logo 1`] = `
+<Logo
+  color="#fff"
+/>
+`;
